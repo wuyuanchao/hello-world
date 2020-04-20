@@ -1,2 +1,3 @@
-new file added
-commit #1
+- new file added
+- commit #1
+- commit #2
